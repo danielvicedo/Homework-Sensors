@@ -1,4 +1,4 @@
-# Install script for directory: /home/danielvicedo/repos/CMake-tutorial/webcam_capture
+# Install script for directory: /home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/danielvicedo/repos/CMake-tutorial/webcam_capture/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

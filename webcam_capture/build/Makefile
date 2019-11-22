@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/danielvicedo/repos/CMake-tutorial/webcam_capture
+CMAKE_SOURCE_DIR = /home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/danielvicedo/repos/CMake-tutorial/webcam_capture/build
+CMAKE_BINARY_DIR = /home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/danielvicedo/repos/CMake-tutorial/webcam_capture/build/CMakeFiles /home/danielvicedo/repos/CMake-tutorial/webcam_capture/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/build/CMakeFiles /home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/danielvicedo/repos/CMake-tutorial/webcam_capture/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

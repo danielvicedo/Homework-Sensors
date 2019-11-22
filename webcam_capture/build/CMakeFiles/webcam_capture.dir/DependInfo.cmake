@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/danielvicedo/repos/CMake-tutorial/webcam_capture/src/webcam_capture.cpp" "/home/danielvicedo/repos/CMake-tutorial/webcam_capture/build/CMakeFiles/webcam_capture.dir/src/webcam_capture.cpp.o"
+  "/home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/src/webcam_capture.cpp" "/home/daniel/catkin_ws/src/repos/Homework-Sensors/webcam_capture/build/CMakeFiles/webcam_capture.dir/src/webcam_capture.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
